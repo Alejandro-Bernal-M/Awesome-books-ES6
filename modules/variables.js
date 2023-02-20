@@ -1,0 +1,11 @@
+export const form = document.querySelector('.add-form');
+export const formTitle = document.getElementById('title');
+export const formAuthor = document.getElementById('author');
+export const booksHolder = document.querySelector('.books-holder');
+export const liList = document.querySelector('.a-list');
+export const liAdd = document.querySelector('.a-add');
+export const liContact = document.querySelector('.a-contact');
+export const sectionList = document.querySelector('.list');
+export const sectionAdd = document.querySelector('.add');
+export const sectionContact = document.querySelector('.contact');
+export const date = document.querySelector('.date');
